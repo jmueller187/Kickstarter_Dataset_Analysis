@@ -2,7 +2,7 @@
 
 ## Project Overview:
 
-### The purpose of this analysis was to provide Louise additional data on how different campaigns similar to her play "Fever" fared while raising funds for each project in relation to their launch date and overall fundraising goals. This should help Louise when she is ready to move forward with raising funds for her next project.
+### The purpose of this analysis was to provide our customer Louise additional data on how different campaigns - similar to her play "Fever" - fared while raising funds for each project in relation to their launch date and overall fundraising goals. This will help Louise when she is ready to move forward with raising funds for her next project.
 ### Analysis was performed by first collecting data for two separate outcomes. The first analysis was based on launch date and was used to determine if time of the year had any influence on the success or failure of a fundraising campaign. The second analysis was based on fundraising goals which identified percentage of success or failure of a campaign based on the fundraising goal amount.
 ---
 ## Outcomes Based on Launch Date
