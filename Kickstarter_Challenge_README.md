@@ -34,7 +34,7 @@
 ### 2) This dataset includes campaigns from 2009 to 2017. This range could have been expanded up through 2020 or prior to 2009 to increase the amount of projects to analyze.
 ---
 ## What are some additional tables and/or graphs that could be created?
-### 1) Successful and Failed Kickstarters per country included in the dataset.
+### 1) Successful and Failed Kickstarter campaigns per country included in the dataset.
 ### 2) Charts of Mean Goal/Plegded, Meadial Goal/Pledged, Standard Deviation of Goal/Pledged, Upper Quartile of Goal/Pledged, Lower Quartile of Goal/Pledged and IQR of Goal/Pledged for successful and Failed campaigns.
 ### 3) Use additional Subcategories to determine Successful / Failed Kickstarters, Outcomes Based on Launch Date, Outcomes Based on Goals, etc.
 ### 4) Summarize Average Donation ranges per various Subcategories to determine what types of projects backers are interested in funding. 
